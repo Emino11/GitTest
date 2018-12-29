@@ -1,1 +1,1 @@
-Commande ECHO activ‚e.
+echo "Run : test.bat"
